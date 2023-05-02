@@ -2,7 +2,7 @@
 
 ## Description:
  
-GICE stands for Global Investment Crypto Exchange. Its a DAO platform which provides the user very reliable and flexible use of crypto assets. Its built on keeping in mind to make crypto world very easy and understandable to each and every person. It provides token swapping, staking, unstaking, rewards claiming, converting fiat currencies to crypto and vice versa. GIE Token holders enjoy the advantage of getting discount on transactions as a benefit.
+GICE stands for General Investment Crypto Exchange. Its a DAO platform which provides the user very reliable and flexible use of crypto assets. Its built on keeping in mind to make crypto world very easy and understandable to each and every person. It provides token swapping, staking, unstaking, rewards claiming, converting fiat currencies to crypto and vice versa. GIE Token holders enjoy the advantage of getting discount on transactions as a benefit.
 
 ### Important Points :
 
